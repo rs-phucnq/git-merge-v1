@@ -1,3 +1,13 @@
+# v1.0.1 - 20221203
+
+* [rs-04] Remove EST content on sample file
+[PR#8] (https://github.com/rs-phucnq/git-merge-v1/pull/8)
+
+
+* [rs-04] Remove EST content on sample file
+[PR#6] (https://github.com/rs-phucnq/git-merge-v1/pull/6)
+
+
 # v1.0.0 - 20221203
 
 * [rs-04] Remove EST content on sample file
